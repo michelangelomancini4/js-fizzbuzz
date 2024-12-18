@@ -17,7 +17,7 @@ else  if (i % 3 === 0){
 else if (i % 5 === 0){
     console.log(text, "Buzz");
 }
-
+// il restante dei numeri restituiscimelo in forma numerica
 else {
     console.log(text, i);
 }
